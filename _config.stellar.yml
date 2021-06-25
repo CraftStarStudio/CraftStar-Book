@@ -1,0 +1,8 @@
+footer:
+  social:
+    - icon: '<img src="https://cdn.jsdelivr.net/gh/Rush/Font-Awesome-SVG-PNG@master/white/svg/github.svg"/>'
+      url: https://github.com/CraftStarStudio
+    - icon: '<image src="https://cdn.jsdelivr.net/gh/Rush/Font-Awesome-SVG-PNG@master/white/svg/qq.svg"/>'
+      url: https://qm.qq.com/cgi-bin/qm/qr?k=9HxNOGLgzYWmSPdsoou2swjzOrq5gxzZ&authKey=4UbRMdPPeNUg5fT+vcLZiIGPT0mWRFAL2EjE3DNbmedcrFh3gMA6zZXIRJRw5HjX&noverify=0
+
+  source: "[GitHub](https://github.com/CraftStarStudio/CraftStar-Book)"

@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: CraftStar工作室
+title: CraftStar书籍站
 subtitle: ""
 description: ""
 keywords:
@@ -15,7 +15,7 @@ timezone: ""
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://craftstar.net/
+url: https://book.craftstar.net/
 permalink: :title/
 permalink_defaults:
 pretty_urls:
