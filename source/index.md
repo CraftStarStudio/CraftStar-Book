@@ -2,7 +2,7 @@
 robots: "index,nofollow"
 menu_id: home
 seo_title: 主页
-sidebar: [welcome, recent, toc]
+sidebar: [welcome, toc]
 toc_title: 主页
 comments: false
 breadcrumb: false
@@ -14,6 +14,8 @@ header: false
     <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script> 
 </head> 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
+
+{% navbar [主站](https://www.craftstar.net) [书架](#书架) [进度](#进度) %}
 
 {% about %}
 
@@ -27,5 +29,10 @@ header: false
 
 ---
 
+本站为CraftStar工作室的书籍站，工作室撰写/翻译的书籍都会在此站发布，同时，我们也会把撰写/翻译进度放在本站。**阅读愉快！**
+
 {% endabout %}
 
+## 书架
+
+## 进度
