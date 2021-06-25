@@ -35,4 +35,4 @@ header: false
 
 ## 书架
 
-## 进度
+[使用 LWJGL 3 开发 3D 游戏](/3d-game-development-with-lwjgl/)（正在翻译）
